@@ -27,6 +27,7 @@ jupyter-console==6.0.0
 jupyter-core==4.4.0
 lxml==4.2.5
 MarkupSafe==1.0
+matplotlib==3.0.3
 mistune==0.8.4
 mzml2isa==0.5.1
 nbconvert==5.4.0
@@ -50,6 +51,7 @@ python-dateutil==2.7.3
 python-utils==2.3.0
 pytz==2018.5
 pyzmq==17.1.2
+PyYAML==5.1
 qtconsole==4.4.1
 requests==2.20.0
 Send2Trash==1.5.0
