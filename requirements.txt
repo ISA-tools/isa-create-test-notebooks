@@ -15,11 +15,10 @@ ipykernel==5.1.0
 ipython==7.0.1
 ipython-genutils==0.2.0
 ipywidgets==7.4.2
-isatools==0.10.4
 iso8601==0.1.12
 jdcal==1.4
 jedi==0.13.1
-Jinja2==2.10
+Jinja2==2.10.1
 jsonpickle==1.0
 jsonschema==2.6.0
 jupyter==1.0.0
@@ -33,7 +32,7 @@ mzml2isa==0.5.1
 nbconvert==5.4.0
 nbformat==4.4.0
 networkx==2.2
-notebook==5.7.0
+notebook==5.7.8
 numpy==1.15.2
 openpyxl==2.5.8
 pandas==0.23.4
@@ -52,7 +51,7 @@ python-utils==2.3.0
 pytz==2018.5
 pyzmq==17.1.2
 qtconsole==4.4.1
-requests==2.19.1
+requests==2.20.0
 Send2Trash==1.5.0
 simplegeneric==0.8.1
 six==1.11.0
@@ -60,7 +59,7 @@ terminado==0.8.1
 testpath==0.4.2
 tornado==5.1.1
 traitlets==4.3.2
-urllib3==1.23
+urllib3==1.24.2
 wcwidth==0.1.7
 webencodings==0.5.1
 widgetsnbextension==3.4.2
