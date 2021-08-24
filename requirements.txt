@@ -51,7 +51,7 @@ python-dateutil==2.7.3
 python-utils==2.3.0
 pytz==2018.5
 pyzmq==17.1.2
-PyYAML==5.1
+PyYAML>=5.4
 qtconsole==4.4.1
 requests==2.20.0
 Send2Trash==1.5.0
